@@ -1,0 +1,12 @@
+{
+  "name": "generator-wxc-vue",
+  "version": "1.0.0",
+  "description": "generator-vue",
+  "main": "index.js",
+  "repository": "https://github.com/henji-1122/generator-wxc-vue",
+  "author": "wxc",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}
